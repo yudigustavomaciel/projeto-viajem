@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+    font-size: 15px;
+}
+
+footer{
+    background-color: #333333;
+    height: 250px;
+    width: 1350px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 32px;
+    width: 167px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.banner{
+    background-image: url("./assets/banner.png");
+    height: 690px;
+    width: 1800px;
+}
